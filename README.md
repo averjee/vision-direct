@@ -2,7 +2,7 @@
 
 Clone Locally: <br>
 
-`git clone https://github.com/averjee/insurance-quotes.git`
+`git clone https://github.com/averjee/vision-direct.git`
 
 Inside cloned directory run: <br>
 
